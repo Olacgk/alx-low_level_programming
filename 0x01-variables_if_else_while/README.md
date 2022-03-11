@@ -2,4 +2,5 @@
 1. a program that print the last digit of the number stored in the variable
 2. a program that prints the alphabet in lowercase  
 3. aa program that prints the alphabet in lowercase and then in uppercase  
-4. a program that prints the alphabet in lowercase
+4. a program that prints the alphabet in lowercase  
+5. a program that prints all single digit numbers of base 10 starting from 0
