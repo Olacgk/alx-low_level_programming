@@ -5,4 +5,5 @@
 4. a C program that prints exactly  
 5. a C program thats exactly ...  
 6. a C program that prints the sizze of various types on the computer  
-7. a script that generates the assembly code of a C code
+7. a script that generates the assembly code of a C code  
+8. a C program that prints
