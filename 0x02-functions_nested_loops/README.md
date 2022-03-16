@@ -6,5 +6,6 @@
 5. a function that prints the sign of a number  
 6. a function that computes the absolute value of an integer  
 7. a function that prints the last digit of a number  
-8. a function that prints every minute of the day of jack Bauer
+8. a function that prints every minute of the day of jack Bauer  
+9. a function that prints the 9 times table
 
