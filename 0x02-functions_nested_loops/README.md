@@ -10,4 +10,5 @@
 9. a function that prints the 9 times table  
 10. a function that adds two integers  
 11. a function that prints all natural numbers from n to 98  
-12. a function that prints the n times table
+12. a function that prints the n times table  
+13. natural
